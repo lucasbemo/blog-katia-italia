@@ -8,14 +8,14 @@ canonifyurls    = true
 
 [params]
   title       = "Blog da Katia"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  subtitle    = "Kátia Zamboni"
   copyright   = "© 2018"
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = []
+  customCSS = ["css/katia.css"]
   RSSLink = ""
 
   twitterName = "faketryghost"
