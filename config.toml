@@ -18,10 +18,9 @@ canonifyurls    = true
   customCSS = ["css/katia.css"]
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
-  linkedinName = "eueung"
+  fbName = "katia.dejesuszamboni"
+  linkedinName = "kátia-de-jesus-zamboni-3a9a856a"
+  emailName = "katia@gmail.com"
   mediumName = ""
 
   logo = "hugo-logo.png"
